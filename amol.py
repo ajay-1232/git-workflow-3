@@ -1,0 +1,2 @@
+print("amol")
+print("talkhed")
